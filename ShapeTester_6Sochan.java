@@ -52,27 +52,3 @@ class Circle extends Shape {
     return Math.PI*(radius*radius);
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/** 5) Create a public tester class: ShapeTester_Lastna
-       Create a few objects, print out thier areas
-*/
